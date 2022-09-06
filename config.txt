@@ -12,6 +12,8 @@
 # 信息配置
 # 和风天气apikey
 "weather_key": "8cad684e46a2469b8051016089b00c07",
+#天行数据api
+"tian_api":"http://api.tianapi.com/tianqi/index"
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "北京",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
