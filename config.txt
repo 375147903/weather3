@@ -10,6 +10,8 @@
 "user": ["oFexy6EgVgIGCdqahIitBggH41n0","oFexy6AlqGOEllyFuJS9KCX4rc9Q"],
  
 # 信息配置
+# 和风天气apikey
+"weather_key": "8cad684e46a2469b8051016089b00c07",
 # 天行数据apikey
 "weather_key": "aff5daaee4263856665a9cfe0ec81cb4",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
